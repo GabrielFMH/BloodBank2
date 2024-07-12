@@ -9,11 +9,11 @@ name:  BloodBank2
 on:
   push:
     branches:
-      - master
+      - main
       - 'maintenence/*'
   pull_request:
     branches:
-      - master
+      - main
 
 jobs:
 
